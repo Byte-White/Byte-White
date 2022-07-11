@@ -11,7 +11,7 @@
 
 ------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=byte-white&label=Profile%20views&color=0e75b6&style=flat" alt="byte-white" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=byte-white&label=Profile%20views&color=brightgreen&style=flat" alt="byte-white" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byte-white" alt="byte-white" /></a> </p>
 
