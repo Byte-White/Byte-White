@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Byte White</h1>
+<h1 align="center">Hi, I'm Byte White</h1>
 <h4 align="center">Just A Random Developer</h4>
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <a href="https://.github.io/1999AZZAR/">
+  <img  src="https://github.com/Byte-White/Byte-White/blob/main/resources/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
 
